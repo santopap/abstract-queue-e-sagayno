@@ -24,3 +24,9 @@ public class AbstractQueuePogiJames {
     }  
     
 }
+
+
+output
+Mga gwapo nako na amego: [Mark, Taloy, Kyle, Billy, Lokdoy]
+nakaigit sa short: Mark
+Mga gwapo: [Taloy, Kyle, Billy, Lokdoy]
