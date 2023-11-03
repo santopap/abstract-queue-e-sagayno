@@ -1,0 +1,26 @@
+package pkgabstract.queue.pogi.james;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+
+public class AbstractQueuePogiJames {
+
+    
+    public static void main(String[] args) {
+        Queue q = new LinkedList();
+        
+        q.add("Mark");
+        q.add("Taloy");
+        q.add("Kyle");  
+        q.add("Billy");
+        q.add("Lokdoy");
+        
+        
+        System.out.println("Mga gwapo nako na amego: " + q);
+        
+        System.out.println("nakaigit sa short: " + q.poll());
+          System.out.println("Mga gwapo: " + q);
+    }  
+    
+}
